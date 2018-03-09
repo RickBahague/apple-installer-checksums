@@ -1,5 +1,5 @@
 # If verification error is encountered using a USB installation method
-* Set date to 0101010116 or any other suggested dates [here] (https://apple.stackexchange.com/questions/216730/this-copy-of-the-install-os-x-el-capitan-application-cant-be-verified-it-may-h) 
+* Set date to 0101010116 or any other suggested dates [https://apple.stackexchange.com/questions/216730/this-copy-of-the-install-os-x-el-capitan-application-cant-be-verified-it-may-h] (here) 
 * Of course, create a usb installer via [apple's guide](https://support.apple.com/en-us/HT201372).
 
 # Apple Installer Checksums
